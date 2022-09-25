@@ -6,8 +6,8 @@
 >
 ## 課程筆記區
 >* 課堂任務
-   + [Github建立](https://github.com/shihjonathan0302)
-   + 建立一個靜態網頁
+>   + [Github建立](https://github.com/shihjonathan0302)
+>   + 建立一個靜態網頁
 >* 課堂筆記
 ## 作業連結區
 >* 作業1
