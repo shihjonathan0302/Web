@@ -16,10 +16,11 @@
 >   + [第四週](https://docs.google.com/presentation/d/e/2PACX-1vRzFbbpzLWLBeQLZibkd6VS3W5pjD9WhoEZd-EQav7x_2bh8nQs3owQPv0Ej-oqlCXYWy4RufLkMicY/pub?start=false&loop=false&delayms=3000&slide=id.p)
 >* 課程資料
 >    + [Markdown語法](https://markdown.tw)
->   + [Codepen](https://codepen.io)
->   + [Tech Republic](https://www.techrepublic.com/article/ten-windows-10-network-commands-everyone-one-should-know/)
->   + [Learn Javascript](https://learnjavascript.online)
->   + [Learn HTML CSS](https://learnhtmlcss.online) 
+>    + [Markdown語法大全](https://hackmd.io/@eMP9zQQ0Qt6I8Uqp2Vqy6w/SyiOheL5N/%2FBVqowKshRH246Q7UDyodFA?type=book)
+>    + [Codepen](https://codepen.io)
+>    + [Tech Republic](https://www.techrepublic.com/article/ten-windows-10-network-commands-everyone-one-should-know/)
+>    + [Learn Javascript](https://learnjavascript.online)
+>    + [Learn HTML CSS](https://learnhtmlcss.online) 
 ## 作業連結區
 >* 作業1
 >* 作業2
