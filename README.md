@@ -4,7 +4,7 @@
 >* 姓名: [施宏儒](https://shihjonathan0302.github.io/Web/web1/)
 >* 系級: [科技系2年級](https://www.tahrd.ntnu.edu.tw)
 >
-## ==課程筆記區==
+## 課程筆記區
 >* 課堂任務
 >   + [Github建立](https://github.com/shihjonathan0302)
 >   + [建立一個靜態網頁](https://shihjonathan0302.github.io/Web/web1/)
