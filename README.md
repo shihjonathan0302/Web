@@ -14,6 +14,8 @@
 >   + [第二週](https://docs.google.com/presentation/d/e/2PACX-1vTDvYn3QV46gLMrZyRTLcVC_ZLSExGKp2NKSmynOjCl1TkSpo3l3objKNUJzvgniLzss6jtdrtxsPf4/pub?start=false&loop=false&delayms=3000&slide=id.p)
 >   + [第三週](https://docs.google.com/presentation/d/e/2PACX-1vSZo61VUAGVMwmapSMd-GN0wBLRQyTf943MTnphSZR-33nG1cN6LToABqfef0JRq9yZYs-TRp_3zFE9/pub?start=false&loop=false&delayms=3000&slide=id.p) 
 >   + [第四週](https://docs.google.com/presentation/d/e/2PACX-1vRzFbbpzLWLBeQLZibkd6VS3W5pjD9WhoEZd-EQav7x_2bh8nQs3owQPv0Ej-oqlCXYWy4RufLkMicY/pub?start=false&loop=false&delayms=3000&slide=id.p)
+>.  + [第五週](https://docs.google.com/presentation/d/e/2PACX-1vSm19M_AdUOrFG0hGHyuTWdvjHENudxSTDLgQpDghG7HGsW9ljLiPpXhahnFcqS4xU1mbDcXeFk-PMA/pub?start=false&loop=false&delayms=3000&slide=id.p)
+>.  + [第六週](https://docs.google.com/presentation/d/e/2PACX-1vQwXzwsXpz6GtsB2y1adorvi6a0OD3nXORh2g2nnER3YYPWsPKympVULtEOnMLSB4HZOcnsxnmdB1hg/pub?start=false&loop=false&delayms=3000&slide=id.p)
 >* 課程資料
 >    + [Markdown語法](https://markdown.tw)
 >    + [Markdown語法大全](https://hackmd.io/@eMP9zQQ0Qt6I8Uqp2Vqy6w/SyiOheL5N/%2FBVqowKshRH246Q7UDyodFA?type=book)
