@@ -23,6 +23,7 @@
 >    + [Tech Republic](https://www.techrepublic.com/article/ten-windows-10-network-commands-everyone-one-should-know/)
 >    + [Learn Javascript](https://learnjavascript.online)
 >    + [Learn HTML CSS](https://learnhtmlcss.online) 
+>    + [JSON Crack](https://jsoncrack.com)
 ## 作業連結區
 >* [作業1](https://youtu.be/ogSI9RaKge8) 
 >* 作業2
