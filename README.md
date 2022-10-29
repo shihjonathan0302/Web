@@ -27,8 +27,9 @@
 >    + [Learn Javascript](https://learnjavascript.online)
 >    + [Learn HTML CSS](https://learnhtmlcss.online) 
 ## 作業連結區
->* [作業1]
+>* 作業1
 >    + [GitHub的使用以及建立一個靜態網頁](https://youtu.be/ogSI9RaKge8) 
->* [作業2](https://youtu.be/aoZ8yuRPgNY)
+>* 作業2
+>    + [Ｗeb2的建立以及server端的連結](https://youtu.be/aoZ8yuRPgNY)
 >* 作業3
 ## 專題連結區
