@@ -9,7 +9,7 @@
 >   + [Github建立](https://github.com/shihjonathan0302)
 >   + [建立一個靜態網頁](https://shihjonathan0302.github.io/Web/web1/)
 >   + [用node.js實作server端](https://github.com/shihjonathan0302/Web/blob/main/app.js)
->   + [教育元宇宙 心得]
+>   + [教育元宇宙心得]
 >* 課堂PPT
 >   + [第一週](https://docs.google.com/presentation/d/e/2PACX-1vQeq6j0QLtkRYz4qBJMG4KOC34eEWbWHJlhfWm4eaZqg_PfCynecuaul_2zMMc_7muZ5qFQFI_MAc3z/pub?start=false&loop=false&delayms=3000&slide=id.p)
 >   + [第二週](https://docs.google.com/presentation/d/e/2PACX-1vTDvYn3QV46gLMrZyRTLcVC_ZLSExGKp2NKSmynOjCl1TkSpo3l3objKNUJzvgniLzss6jtdrtxsPf4/pub?start=false&loop=false&delayms=3000&slide=id.p)
