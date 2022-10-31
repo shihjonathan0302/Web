@@ -32,4 +32,5 @@
 >* 作業2
 >    + [Ｗeb2的建立以及server端的連結](https://youtu.be/aoZ8yuRPgNY)
 >* 作業3
+>    + [AWS Educate的Lab1跟Lab2 ]
 ## 專題連結區
