@@ -32,5 +32,7 @@
 >* 作業2
 >    + [Ｗeb2的建立以及server端的連結](https://youtu.be/aoZ8yuRPgNY)
 >* 作業3
->    + [AWS Educate的Lab1跟Lab2](https://youtu.be/BzSkdKVjGEg)
+>    + [AWS Educate的Lab1跟Lab2：S3 & EC2](https://youtu.be/BzSkdKVjGEg)
+>* 作業4
+>    + [AWS Educate的Lab5跟Lab6：IAM & Amazon VPC](https://youtu.be/VAx0GEHJBPU)
 ## 專題連結區
