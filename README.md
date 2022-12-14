@@ -34,8 +34,10 @@
 >* 作業2
 >    + [Ｗeb2的建立以及server端的連結](https://youtu.be/aoZ8yuRPgNY)
 >* 作業3
->    + [AWS Educate的Lab1跟Lab2：S3/EC2](https://youtu.be/BzSkdKVjGEg)
+>    + [Lab 1: Amazon S3 簡介/Lab 2: Amazon EC2 簡介](https://youtu.be/BzSkdKVjGEg)
 >* 作業4
->    + [AWS Educate的Lab5跟Lab6：IAM/Amazon VPC](https://youtu.be/VAx0GEHJBPU)
+>    + [Lab 5: Amazon VPC 簡介/Lab 6: IAM 簡介](https://youtu.be/VAx0GEHJBPU)
+>* 作業5
+>    + [Lab 3: Amazon DynamoDB 簡介/Lab 4: Amazon RDS 簡介/Lab 7: 使用Amazon S3託管靜態網站]([https://youtu.be/VAx0GEHJBPU](https://youtu.be/X8ksFyaPpHs))
 ## 專題連結區
 >* [捐贈大搜尋](https://www.canva.com/design/DAFRzN9vHkU/cO07pOxdpgkDJby0Yp5kZg/edit?utm_content=DAFRzN9vHkU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
