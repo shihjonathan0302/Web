@@ -40,4 +40,5 @@
 >* 作業5
 >    + [Lab 3: Amazon DynamoDB 簡介/Lab 4: Amazon RDS 簡介/Lab 7: 使用Amazon S3託管靜態網站](https://youtu.be/X8ksFyaPpHs)
 ## 專題連結區
->* [捐贈大搜尋](https://www.canva.com/design/DAFRzN9vHkU/cO07pOxdpgkDJby0Yp5kZg/edit?utm_content=DAFRzN9vHkU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+>* [「捐贈大搜尋」簡報](https://www.canva.com/design/DAFRzN9vHkU/cO07pOxdpgkDJby0Yp5kZg/edit?utm_content=DAFRzN9vHkU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+>* [Figma呈現](https://www.figma.com/file/2FCoNI7Vcw0T6kspYihUPx/%E6%8D%90%E8%B4%88%E5%A4%A7%E6%90%9C%E5%B0%8B?node-id=0%3A1&t=pPyXIaIoNjY2Ym73-1)
